@@ -21,6 +21,6 @@ Heap,
 AVL tree,
 Breadth first search,
 Depth First search,
-Dijkstra's Alogrithm
-Prim's Alogrithm
+Dijkstra's Alogrithm,
+Prim's Alogrithm,
 Kruskal Alogrithm
