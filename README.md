@@ -5,4 +5,22 @@ factorial without recursion,
 Fibonacci without recursion,
 Factorial using recursion,
 fibonacci using recursion,
-Array Operation:Insertion,deletion and display
+Array Operation:Insertion,deletion and display,
+Linear search,
+Binary search,
+Linked list operation,
+Stack operation,
+Application of stack,
+Queue operations,
+Tree traversals,
+Hashing,
+Insertion Sort,
+Merge sort,
+Quick sort,
+Heap,
+AVL tree,
+Breadth first search,
+Depth First search,
+Dijkstra's Alogrithm
+Prim's Alogrithm
+Kruskal Alogrithm
